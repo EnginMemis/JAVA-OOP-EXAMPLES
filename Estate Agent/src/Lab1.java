@@ -1,4 +1,4 @@
-package enginmemiþ;
+package enginmemis;
 public class Lab1 {
 
 	public static void main(String[] args) {
@@ -28,7 +28,6 @@ public class Lab1 {
 		System.out.println("-------------------------------------------------------------");
 		System.out.println(cs1.getInfo());
 		cs1.listHome();
-		//cs1.listLocations();  ZAMAN YETMEDÝÐÝ ÝÇÝN YAZAMADÝM
 		
 
 	}

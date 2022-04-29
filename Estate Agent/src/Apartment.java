@@ -1,4 +1,4 @@
-package enginmemiþ;
+package enginmemis;
 
 public class Apartment extends Home{
 	private double dues;

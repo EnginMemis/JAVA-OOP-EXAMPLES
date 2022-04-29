@@ -1,4 +1,4 @@
-package enginmemiþ;
+package enginmemis;
 
 public class EstateAgent {
 	private String name;

@@ -1,4 +1,4 @@
-package enginmemiþ;
+package enginmemis;
 
 public abstract class Home {
 	private double price;
